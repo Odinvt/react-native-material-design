@@ -1,6 +1,6 @@
 {
   "name": "react-native-odinvt-material-design",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "React Native Material Design Components",
   "main": "lib/index.js",
   "scripts": {
